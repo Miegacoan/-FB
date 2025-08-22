@@ -1,7 +1,7 @@
 {
   "targetURL": "https://www.facebook.com/groups/feed/",
-  "postsToComment": 5,
+  "postsToComment": 10,
   "minIntervalSeconds": 10,
-  "maxIntervalSeconds": 15,
+  "maxIntervalSeconds": 3600,
   "headless": true
 }
